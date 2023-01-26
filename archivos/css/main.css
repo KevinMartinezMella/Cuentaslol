@@ -18,6 +18,15 @@
 .carousel-control-next {
     height: 400px !important;
 }
+.logo-tabla {
+    width: 100px;
+}
+.td-centro {
+    vertical-align: middle;
+}
+/* .tr-ancho {
+    width: 240px;
+} */
 @media (max-width: 700px) {
     .altoCarrusel {
         height: 200px !important;

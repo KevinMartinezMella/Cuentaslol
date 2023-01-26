@@ -1,4 +1,4 @@
-<div id="carruselPrincipal" class="carousel slide altoCarrusel" data-ride="carousel">
+<div id="carruselPrincipal" class="carousel slide altoCarrusel mt-5" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#carruselPrincipal" data-slide-to="0" class="active"></li>
         <li data-target="#carruselPrincipal" data-slide-to="1"></li>
